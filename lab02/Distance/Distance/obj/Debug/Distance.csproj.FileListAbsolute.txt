@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\bin\Debug\Distance.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\bin\Debug\Distance.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\bin\Debug\Distance.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\obj\Debug\Distance.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\Distance\Distance\obj\Debug\Distance.pdb

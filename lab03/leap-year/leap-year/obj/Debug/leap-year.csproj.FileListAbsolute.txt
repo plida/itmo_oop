@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\bin\Debug\leap-year.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\bin\Debug\leap-year.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\bin\Debug\leap-year.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\obj\Debug\leap-year.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\obj\Debug\leap-year.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\obj\Debug\leap-year.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\leap-year\leap-year\obj\Debug\leap-year.pdb

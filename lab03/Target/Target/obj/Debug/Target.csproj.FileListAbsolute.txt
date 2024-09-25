@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\bin\Debug\Target.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\bin\Debug\Target.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\bin\Debug\Target.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\obj\Debug\Target.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\obj\Debug\Target.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\obj\Debug\Target.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Target\Target\obj\Debug\Target.pdb

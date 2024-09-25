@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.pdb

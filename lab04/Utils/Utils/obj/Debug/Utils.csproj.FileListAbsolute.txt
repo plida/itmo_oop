@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\bin\Debug\Utils.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\bin\Debug\Utils.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\bin\Debug\Utils.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\obj\Debug\Utils.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\Utils\Utils\obj\Debug\Utils.pdb

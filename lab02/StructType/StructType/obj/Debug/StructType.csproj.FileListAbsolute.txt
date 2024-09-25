@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\bin\Debug\StructType.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\bin\Debug\StructType.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\bin\Debug\StructType.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\obj\Debug\StructType.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\obj\Debug\StructType.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab02\StructType\StructType\obj\Debug\StructType.pdb

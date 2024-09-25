@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\bin\Debug\Calc_switch.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab03\Calc_switch\Calc_switch\obj\Debug\Calc_switch.pdb

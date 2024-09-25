@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\obj\Debug\shapes-areas.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\obj\Debug\shapes-areas.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\bin\Debug\shapes-areas.exe.config
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\bin\Debug\shapes-areas.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\bin\Debug\shapes-areas.pdb
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\obj\Debug\shapes-areas.exe
+C:\Users\user\Documents\Visual Studio 2022\OOP_Projects\lab01\find-area\shapes-areas\obj\Debug\shapes-areas.pdb
