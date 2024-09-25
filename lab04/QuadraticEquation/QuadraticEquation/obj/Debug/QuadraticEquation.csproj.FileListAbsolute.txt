@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

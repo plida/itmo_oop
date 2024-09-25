@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F2DD0A-0B4D-4583-93DD-091615BB17B7}|Utils\\Utils.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab04\\utils\\utils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F2DD0A-0B4D-4583-93DD-091615BB17B7}|Utils\\Utils.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\utils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F2DD0A-0B4D-4583-93DD-091615BB17B7}|Utils\\Utils.csproj|solutionrelative:utils\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Utils\\Utils.cs",
               "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\Utils\\Utils.cs",
               "RelativeToolTip": "Utils\\Utils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T15:26:12.405Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Utils\\Program.cs",
               "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\Utils\\Program.cs*",
               "RelativeToolTip": "Utils\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T15:13:57.604Z",
               "EditorCaption": ""
