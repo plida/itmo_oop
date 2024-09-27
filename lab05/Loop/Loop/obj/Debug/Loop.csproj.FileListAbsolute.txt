@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\bin\Debug\Loop.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\bin\Debug\Loop.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\bin\Debug\Loop.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\obj\Debug\Loop.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\obj\Debug\Loop.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\Loop\Loop\obj\Debug\Loop.pdb
