@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.pdb

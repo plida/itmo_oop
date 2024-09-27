@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab05\\MatrixMultiply\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17FE0825-E8B6-4AF6-A9A5-79F4F597EBE5}|MatrixMultiply\\MatrixMultiply.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab05\\matrixmultiply\\matrixmultiply\\matrixmultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FE0825-E8B6-4AF6-A9A5-79F4F597EBE5}|MatrixMultiply\\MatrixMultiply.csproj|solutionrelative:matrixmultiply\\matrixmultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixMultiply.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab05\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.cs",
+              "RelativeDocumentMoniker": "MatrixMultiply\\MatrixMultiply.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab05\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.cs",
+              "RelativeToolTip": "MatrixMultiply\\MatrixMultiply.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:54:17.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

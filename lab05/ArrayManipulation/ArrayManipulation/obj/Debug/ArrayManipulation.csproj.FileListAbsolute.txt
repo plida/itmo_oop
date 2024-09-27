@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab05\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.pdb
