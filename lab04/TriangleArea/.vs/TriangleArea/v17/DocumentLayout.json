@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\TriangleArea\\",
+  "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab04\\utils\\trianglearea\\trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|solutionrelative:trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\trianglearea\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|solutionrelative:trianglearea\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab04\\utils\\trianglearea\\trianglearea\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|solutionrelative:trianglearea\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab04\\trianglearea\\trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9951DCB-4E9C-4421-97B3-32BE107447A0}|TriangleArea\\TriangleArea.csproj|solutionrelative:trianglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Operation.cs",
-              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\TriangleArea\\TriangleArea\\Operation.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\TriangleArea\\Operation.cs",
               "RelativeDocumentMoniker": "TriangleArea\\Operation.cs",
-              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\TriangleArea\\TriangleArea\\Operation.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\TriangleArea\\Operation.cs",
               "RelativeToolTip": "TriangleArea\\Operation.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +35,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\TriangleArea\\TriangleArea\\Program.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\TriangleArea\\Program.cs",
               "RelativeDocumentMoniker": "TriangleArea\\Program.cs",
-              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\Utils\\TriangleArea\\TriangleArea\\Program.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab04\\TriangleArea\\TriangleArea\\Program.cs",
               "RelativeToolTip": "TriangleArea\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

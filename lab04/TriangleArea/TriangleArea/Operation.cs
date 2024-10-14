@@ -41,7 +41,7 @@ namespace TriangleArea
                 return false;
             }
         }
-        internal static bool TriangleExists(double a, double b, double c)
+        private static bool TriangleExists(double a, double b, double c)
         {
             bool exists = false;
             if (a + b > c && a + c > b && b + c > a) exists = true;

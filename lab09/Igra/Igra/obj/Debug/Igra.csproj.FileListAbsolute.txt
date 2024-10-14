@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Igra\Igra\bin\Debug\Igra.exe.config
+C:\Users\user\source\repos\Igra\Igra\bin\Debug\Igra.exe
+C:\Users\user\source\repos\Igra\Igra\bin\Debug\Igra.pdb
+C:\Users\user\source\repos\Igra\Igra\obj\Debug\Igra.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Igra\Igra\obj\Debug\Igra.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Igra\Igra\obj\Debug\Igra.exe
+C:\Users\user\source\repos\Igra\Igra\obj\Debug\Igra.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\bin\Debug\Igra.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\bin\Debug\Igra.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\bin\Debug\Igra.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\obj\Debug\Igra.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\obj\Debug\Igra.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\obj\Debug\Igra.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab09\Igra\Igra\obj\Debug\Igra.pdb

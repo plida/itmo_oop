@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab07\\progressions\\progressions\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|solutionrelative:progressions\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\progressions\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|solutionrelative:progressions\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\progressions\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|solutionrelative:progressions\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\progressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247FD890-F2BB-4467-B27F-4828712298C7}|Progressions\\Progressions.csproj|solutionrelative:progressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArithmeticProgression.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\ArithmeticProgression.cs",
+              "RelativeDocumentMoniker": "Progressions\\ArithmeticProgression.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\ArithmeticProgression.cs",
+              "RelativeToolTip": "Progressions\\ArithmeticProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:55:22.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeometricProgression.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\GeometricProgression.cs",
+              "RelativeDocumentMoniker": "Progressions\\GeometricProgression.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\GeometricProgression.cs",
+              "RelativeToolTip": "Progressions\\GeometricProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:32:27.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progression.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\Progression.cs",
+              "RelativeDocumentMoniker": "Progressions\\Progression.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\Progression.cs",
+              "RelativeToolTip": "Progressions\\Progression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:19:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\Program.cs",
+              "RelativeDocumentMoniker": "Progressions\\Program.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\Progressions\\Progressions\\Program.cs",
+              "RelativeToolTip": "Progressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:18:17.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

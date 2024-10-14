@@ -1,0 +1,7 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.pdb

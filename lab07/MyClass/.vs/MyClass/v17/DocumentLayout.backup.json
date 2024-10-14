@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|solutionrelative:myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|solutionrelative:myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|d:\\programming\\visual studio 2022\\oop_projects\\lab07\\myclass\\myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|solutionrelative:myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|solutionrelative:myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\myclass\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{98071F6C-C199-4D98-8203-1F5B684F482C}|MyClass\\MyClass.csproj|solutionrelative:myclass\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Item.cs",
+              "RelativeDocumentMoniker": "MyClass\\Item.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Item.cs",
+              "RelativeToolTip": "MyClass\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:21:16.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "MyClass\\ClassDiagram1.cd",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\ClassDiagram1.cd",
+              "RelativeToolTip": "MyClass\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-07T23:12:06.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeDocumentMoniker": "MyClass\\Magazine.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeToolTip": "MyClass\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:51:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Book.cs",
+              "RelativeDocumentMoniker": "MyClass\\Book.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Book.cs",
+              "RelativeToolTip": "MyClass\\Book.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:34:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Program.cs",
+              "RelativeDocumentMoniker": "MyClass\\Program.cs",
+              "ToolTip": "D:\\programming\\Visual Studio 2022\\OOP_Projects\\lab07\\MyClass\\MyClass\\Program.cs",
+              "RelativeToolTip": "MyClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:26:09.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

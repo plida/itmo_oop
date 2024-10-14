@@ -1,0 +1,14 @@
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\bin\Debug\Progressions.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\bin\Debug\Progressions.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\bin\Debug\Progressions.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\obj\Debug\Progressions.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\obj\Debug\Progressions.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\obj\Debug\Progressions.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab07\Progressions\Progressions\obj\Debug\Progressions.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\obj\Debug\Progressions.csproj.AssemblyReference.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\obj\Debug\Progressions.csproj.CoreCompileInputs.cache
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\obj\Debug\Progressions.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\obj\Debug\Progressions.pdb
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\bin\Debug\Progressions.exe.config
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\bin\Debug\Progressions.exe
+D:\programming\Visual Studio 2022\OOP_Projects\lab08\Progressions\Progressions\bin\Debug\Progressions.pdb
